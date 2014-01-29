@@ -1,0 +1,14 @@
+{
+  "name": "wgl-buffer",
+  "repo": "deniszatsepin/wgl-buffer",
+  "description": "Create VBO and IBO for WebGL",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
